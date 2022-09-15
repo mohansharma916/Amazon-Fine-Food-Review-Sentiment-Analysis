@@ -16,12 +16,21 @@ Attribute Information:
 There are a total of 10 columns in total in the Amazon Fine Food review dataset.
 
 Id : Row Id
+
 ProductId : Unique identifier for the product.
+
 UserId : Unique identifier for the user.
+
 ProfileName : Profile Name of the User.
+
 HelpfulnessNumerator : Number of users who found the review helpful.
+
 HelpfulnessDenominator : Number of users who indicated whether they found the review helpful or not.
+
 Score : Rating between 1 and 5.
+
 Time : Timestamp for the review.
+
 Summary : Brief summary of the review.
+
 Text : Text of the review.
